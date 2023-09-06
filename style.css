@@ -1,0 +1,327 @@
+/* body{
+    color: white;
+    background-color: rgb(117, 35, 35);
+}
+
+
+#game{
+    width: 350px;
+    background-color: cadetblue;
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+span{
+ font-size: 125%;
+ padding: 5px;
+}
+
+#result{
+    width: 100px;
+}
+
+#answer{
+    margin-top: 10px;
+    padding: 5px;
+    border: none;
+    width: 100px;
+    background-color: blueviolet;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+#answer:hover{
+    background-color: chocolate;
+}
+
+#true,#false{
+    font-size: 150%;
+    margin-top: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+
+#true{
+    background-color: green;
+}
+
+#false{
+    background-color: red;
+} */
+
+
+
+
+/* #obj{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    background: #720d0f;
+    border: none;
+} */
+
+
+
+
+
+/* calcuator */
+
+
+ /* .calcuator {
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+    } 
+
+ .container {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container input[type="text"] {
+  width: 100%;
+  padding: 15px;
+  font-size: 24px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+  text-align: right;
+}
+
+.container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.container table td {
+  padding: 10px;
+  text-align: center;
+}
+
+.container table td input[type="button"] {
+  width: 100%;
+  padding: 15px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.container table td input[type="button"]:hover {
+  background-color: #eee;
+}
+
+.container button {
+  width: 100%;
+  padding: 15px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.container button:hover {
+  background-color: #0056b3;
+}
+
+.container .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.container .btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.container .my-3 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.container table tr:first-child td {
+  border-top: 1px solid #ccc;
+}
+
+.container table tr:last-child td {
+  border-bottom: 1px solid #ccc;
+}
+
+.container table td:first-child {
+  border-left: 1px solid #ccc;
+}
+
+.container table td:last-child {
+  border-right: 1px solid #ccc;
+} */
+
+/* calcuator */
+
+
+
+
+
+/* body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(/img/backimg.png);
+    overflow: hidden;
+    height: 100vh;
+}
+
+.container {
+	margin-top: 30px;
+}
+	.image-container {
+		display: flex;
+		justify-content: space-between;
+		margin-top: 30px;
+	}
+
+	.image-container img {
+		width: 25%;
+		height: auto;
+		cursor: pointer;
+	}
+
+	.image-container img:hover {
+		transform: scale(1.1);
+	}
+
+	.computer-image {
+		display: block;
+		margin-top: 30px;
+		text-align: center;
+	}
+
+	.computer-image img {
+		width: 30%;
+		height: auto;
+		margin: 0 auto;
+    border: 1px;
+    border-radius: 50%;
+	} */
+
+
+/* 
+      body {
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 500px;
+            margin: 50px auto;
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .form-control {
+            border: 1px solid #ced4da;
+            border-radius: 4px;
+        }
+        .form-group label {
+            font-weight: bold;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border: none;
+            border-radius: 4px;
+            padding: 10px 20px;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+        #demo {
+            margin-top: 10px;
+        } */
+
+
+
+
+
+/* .parent {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+}
+
+.child {
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+} */
+
+
+
+/* .box {
+  width: 200px;
+  height: 30px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.panel {
+  width: 200px;
+  height: 50px;
+  padding: 10px;
+  display: none;
+} */
+
+
+
+/* .box {
+  width: 100px;
+  height: 100px;
+  color: white;
+  position: absolute;
+} */
+
+
+/* 
+.red{
+  color: #ff0000;
+  font-size: 30px;
+} */
+
+
+
+/* 
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+} */
+
+
+/* 
+#click{
+  position: absolute;
+} */
